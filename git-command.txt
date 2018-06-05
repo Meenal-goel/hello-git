@@ -1,0 +1,6 @@
+Git is a version control system for tracking changes in computerfiles and coordinating work on those files among multiple people
+1. git init : used to initialise any repository in git
+2. git add (file_name) : used to allow the existence of repository
+3. git clone (path) : used to transfer repository from github to git via path 
+4. git commit -m "comments" file_name : used to make changes in the file i.e. modify it.
+5. git push -u origin master : used to transfer repository from git to github.
